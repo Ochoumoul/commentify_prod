@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/commentify_prod/static/css/main.8a48e215.chunk.css",
+    "main.js": "/commentify_prod/static/js/main.4ed1db34.chunk.js",
+    "main.js.map": "/commentify_prod/static/js/main.4ed1db34.chunk.js.map",
+    "runtime-main.js": "/commentify_prod/static/js/runtime-main.3c6669a6.js",
+    "runtime-main.js.map": "/commentify_prod/static/js/runtime-main.3c6669a6.js.map",
+    "static/js/2.3a1cab68.chunk.js": "/commentify_prod/static/js/2.3a1cab68.chunk.js",
+    "static/js/2.3a1cab68.chunk.js.map": "/commentify_prod/static/js/2.3a1cab68.chunk.js.map",
+    "index.html": "/commentify_prod/index.html",
+    "precache-manifest.7828812e3828e787f91c1e71a4861ea5.js": "/commentify_prod/precache-manifest.7828812e3828e787f91c1e71a4861ea5.js",
+    "service-worker.js": "/commentify_prod/service-worker.js",
+    "static/css/main.8a48e215.chunk.css.map": "/commentify_prod/static/css/main.8a48e215.chunk.css.map",
+    "static/js/2.3a1cab68.chunk.js.LICENSE.txt": "/commentify_prod/static/js/2.3a1cab68.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/commentify_prod/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6669a6.js",
+    "static/js/2.3a1cab68.chunk.js",
+    "static/css/main.8a48e215.chunk.css",
+    "static/js/main.4ed1db34.chunk.js"
+  ]
+}
